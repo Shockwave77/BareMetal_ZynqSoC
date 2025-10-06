@@ -1,0 +1,49 @@
+# Qt generated or compiled files
+*.o
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+lex.yy.c
+y.tab.c
+y.tab.h
+*.pb.cc
+*.pb.h
+
+# Qt Creator
+*.pro.user*
+*.creator
+*creator.user*
+
+# Build directories (adjust if your build dir has a different name)
+build/
+Debug/
+Release/
+*.exe
+*.dll
+*.so
+*.dylib
+lib/
+
+# Temporary files
+*~
+*.swp
+*.swo
+*.log
+*.tmp
+*.bak
+
+# OS-specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE/editor files (general)
+.vscode/
+.idea/
+*.autosave
+*.crash
